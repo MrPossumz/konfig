@@ -1,4 +1,4 @@
-# Konfig
+# [Konfig](https://konfigthis.com)
 
 The monorepo that holds everything...
 ## Getting started
